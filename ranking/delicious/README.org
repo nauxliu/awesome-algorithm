@@ -1,0 +1,6 @@
+#+title: delicious
+#+author: ray
+#+date: <2015-10-21 Wed>
+
+* Delicious
+delicious 是一种最为简单粗暴的基于用户投票排名的算法。基本原理就是统计过去60分钟内被收藏的次数进行排名。
