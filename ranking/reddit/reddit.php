@@ -16,4 +16,5 @@ $z = (x == 0) ? 1 : abs(x);
 function reddit($t, $x, $y, $z){
     $score = log($z, 10) + $y * $t / 45000;
 }
+
 ?>
